@@ -1,4 +1,4 @@
-# CODSOFT
+# CODSOFT Internship
 
 During my Data Science internship with CODSOFT, I had the opportunity to work on three distinct and insightful projects that enhanced my skills in data analysis, machine learning, and predictive modeling.
 
